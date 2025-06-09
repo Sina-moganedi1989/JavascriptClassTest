@@ -1,5 +1,5 @@
 const prompt=require("prompt-sync")({sigint:true}); 
-/*const car = {
+const car = {
     make: "Toyota",
     model: "Corolla",
     year: 2020
@@ -7,7 +7,7 @@ const prompt=require("prompt-sync")({sigint:true});
 
 for (let key in car) {
     console.log(`${key}: ${car[key]}`);
-} */
+} 
 
 
 // map
